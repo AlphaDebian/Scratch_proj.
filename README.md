@@ -1,0 +1,3 @@
+# Scratch_proj.
+
+PongGame_v0.sb3 -- is the basic pong game with computer as the opponent, it does not have any difficulty levels, but can be made more difficult by changing the values of the ball speed to 15 steps and the computer pad the delay to 0.2 or 0.1 to make it more responsive...
